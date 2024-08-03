@@ -1,0 +1,1 @@
+export DATABASE_URL="postgresql://eshwarsriramoju:ImZ3CGIdKIK0-LGWL-srhQ@hero-dog-9058.8nk.gcp-asia-southeast1.cockroachlabs.cloud:26257/yourdatabase?sslmode=verify-full"

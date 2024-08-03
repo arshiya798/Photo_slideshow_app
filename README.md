@@ -1,1 +1,1 @@
-# Photo_slideshow_app
+# iss-project
